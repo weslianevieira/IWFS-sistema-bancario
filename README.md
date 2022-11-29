@@ -1,4 +1,4 @@
-# LabeBank - Integração IWSF Sistma Bancário 
+# LabeBank - Integração IWSF Sistema Bancário 
 
 ## Escopo do Projeto
 
